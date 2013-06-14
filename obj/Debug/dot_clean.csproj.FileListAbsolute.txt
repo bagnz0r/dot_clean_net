@@ -1,0 +1,6 @@
+E:\Dev\MacCleanup\Mac Cleanup\dot_clean\bin\Debug\dot_clean.exe.config
+E:\Dev\MacCleanup\Mac Cleanup\dot_clean\bin\Debug\dot_clean.exe
+E:\Dev\MacCleanup\Mac Cleanup\dot_clean\bin\Debug\dot_clean.pdb
+E:\Dev\MacCleanup\Mac Cleanup\dot_clean\obj\Debug\dot_clean.csprojResolveAssemblyReference.cache
+E:\Dev\MacCleanup\Mac Cleanup\dot_clean\obj\Debug\dot_clean.exe
+E:\Dev\MacCleanup\Mac Cleanup\dot_clean\obj\Debug\dot_clean.pdb
